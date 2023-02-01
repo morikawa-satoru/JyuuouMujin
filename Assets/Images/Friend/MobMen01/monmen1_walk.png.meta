@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 08071ce4e43a76246ad5e1facf7dbf97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6677404191015604305
+    second: monmen1_walk_0
+  - first:
+      213: -3972088612893896506
+    second: monmen1_walk_1
+  - first:
+      213: -5242640595445338469
+    second: monmen1_walk_2
+  - first:
+      213: 404058223788458794
+    second: monmen1_walk_3
+  - first:
+      213: -5801577821052747792
+    second: monmen1_walk_4
+  - first:
+      213: 6314268971449577724
+    second: monmen1_walk_5
+  - first:
+      213: 3052556637707874377
+    second: monmen1_walk_6
+  - first:
+      213: 6343834531410710696
+    second: monmen1_walk_7
+  - first:
+      213: 2710075763660821400
+    second: monmen1_walk_8
+  - first:
+      213: 2825627677262011350
+    second: monmen1_walk_9
+  - first:
+      213: 1287316854254599669
+    second: monmen1_walk_10
+  - first:
+      213: -19860556959784348
+    second: monmen1_walk_11
+  - first:
+      213: 8801759243313680359
+    second: monmen1_walk_12
+  - first:
+      213: -2761832225937395168
+    second: monmen1_walk_13
+  - first:
+      213: 2443885731805152843
+    second: monmen1_walk_14
+  - first:
+      213: 7819131479221767850
+    second: monmen1_walk_15
+  - first:
+      213: 859909578738466724
+    second: monmen1_walk_16
+  - first:
+      213: -1048450773868942492
+    second: monmen1_walk_17
+  - first:
+      213: 5323937294612261800
+    second: monmen1_walk_18
+  - first:
+      213: 7286933021892250066
+    second: monmen1_walk_19
+  - first:
+      213: -3851197180977201612
+    second: monmen1_walk_20
+  - first:
+      213: 894366433760297690
+    second: monmen1_walk_21
+  - first:
+      213: 8599497298858627478
+    second: monmen1_walk_22
+  - first:
+      213: -7537433803725371473
+    second: monmen1_walk_23
+  - first:
+      213: -7927519502007803237
+    second: monmen1_walk_24
+  - first:
+      213: -8463488509882176677
+    second: monmen1_walk_25
+  - first:
+      213: 3881541322978342175
+    second: monmen1_walk_26
+  - first:
+      213: 2730908943659850808
+    second: monmen1_walk_27
+  - first:
+      213: -4034699695370749922
+    second: monmen1_walk_28
+  - first:
+      213: 7883912688713982516
+    second: monmen1_walk_29
+  - first:
+      213: 718844315015680648
+    second: monmen1_walk_30
+  - first:
+      213: -7209004501984141963
+    second: monmen1_walk_31
+  - first:
+      213: 3464719623494273439
+    second: monmen1_walk_32
+  - first:
+      213: 2662941029632615584
+    second: monmen1_walk_33
+  - first:
+      213: -4388051611651112663
+    second: monmen1_walk_34
+  - first:
+      213: -7744644752295135693
+    second: monmen1_walk_35
+  - first:
+      213: -3463277479203808248
+    second: monmen1_walk_36
+  - first:
+      213: 8660895703457000221
+    second: monmen1_walk_37
+  - first:
+      213: -1130459848061237592
+    second: monmen1_walk_38
+  - first:
+      213: 3419269480889064780
+    second: monmen1_walk_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monmen1_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6fc444481553a0800000000000000
+      internalID: -6677404191015604305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d51c937e40e8c0800000000000000
+      internalID: -3972088612893896506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e2077b7266e37b0800000000000000
+      internalID: -5242640595445338469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238c7150d08b9500800000000000000
+      internalID: 404058223788458794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbd57b5b7ac7fa0800000000000000
+      internalID: -5801577821052747792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f583dc2ac0a750800000000000000
+      internalID: 6314268971449577724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b65fb61cdc5a20800000000000000
+      internalID: 3052556637707874377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 540
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0979e25e3d90850800000000000000
+      internalID: 6343834531410710696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89316676c8f1c9520800000000000000
+      internalID: 2710075763660821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd6b2d665a63720800000000000000
+      internalID: 2825627677262011350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdf733cbd77dd110800000000000000
+      internalID: 1287316854254599669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462ee5dbde079bff0800000000000000
+      internalID: -19860556959784348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0938e561262a70800000000000000
+      internalID: 8801759243313680359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02276cb29300ca9d0800000000000000
+      internalID: -2761832225937395168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4644e3ff1d6ae120800000000000000
+      internalID: 2443885731805152843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 405
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae861f17a2238c60800000000000000
+      internalID: 7819131479221767850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af79a3b4330feb00800000000000000
+      internalID: 859909578738466724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bee0b73972371f0800000000000000
+      internalID: -1048450773868942492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab61d313cc62e940800000000000000
+      internalID: 5323937294612261800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d983ffb9f2602560800000000000000
+      internalID: 7286933021892250066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3ed3819ccd8ac0800000000000000
+      internalID: -3851197180977201612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c05f688d696c00800000000000000
+      internalID: 894366433760297690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69156613b3d875770800000000000000
+      internalID: 8599497298858627478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 270
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa78deaf3e7a56790800000000000000
+      internalID: -7537433803725371473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e7d4c30bcbf190800000000000000
+      internalID: -7927519502007803237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6fdfaa06ab8a80800000000000000
+      internalID: -8463488509882176677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15bf1994410ed530800000000000000
+      internalID: 3881541322978342175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c58cc173326e520800000000000000
+      internalID: 2730908943659850808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bc0af00ed108c0800000000000000
+      internalID: -4034699695370749922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432edf2d1d8496d60800000000000000
+      internalID: 7883912688713982516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882915d8819d9f900800000000000000
+      internalID: 718844315015680648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 135
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1b03b99874fb90800000000000000
+      internalID: -7209004501984141963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9983b40428251030800000000000000
+      internalID: 3464719623494273439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a011f1caa4f420800000000000000
+      internalID: 2662941029632615584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921847fde428a13c0800000000000000
+      internalID: -4388051611651112663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fad371ae758490800000000000000
+      internalID: -7744644752295135693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c527d5b77ffefc0800000000000000
+      internalID: -3463277479203808248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be24141cea13870800000000000000
+      internalID: 8660895703457000221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c773f1cccf40f0800000000000000
+      internalID: -1130459848061237592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_walk_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1abf0a7fa37f20800000000000000
+      internalID: 3419269480889064780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

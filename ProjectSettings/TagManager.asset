@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player
+  - Ground
+  - SpeedUp
+  - SpeedDown
+  - JumpDown
+  - JumpUp
+  - TimeExpension
+  - Door
+  - Wall
+  - Ceil
+  - CatchObj
+  - ConnectObj
+  - IronBall
+  - Enemy
+  - Trrain
+  - Monster
+  - Fire
+  - PlayerFire
+  - BreakingWall
+  - BreakingObj
+  - EnemyBullet
+  - Ladder
+  - Event
+  - PlayerEvent
+  - Cushion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - BG
+  - Ground
+  - Wall
+  - Ceil
+  - Player
+  - Rope
+  - Radar
+  - FrontObj
+  - BackObj
+  - CatchObj
+  - ConnectObj
+  - HoldObj
+  - Hahen
+  - BreakingObj
+  - EnemyBullt
+  - PlayerThrough
+  - Ladder
+  - LadderBottom
+  - ThroughCatchObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2356347647
+    locked: 0

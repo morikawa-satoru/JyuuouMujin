@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 4b9f5eb7283b6ff469a18ca38a923d47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2648736324743810640
+    second: monmen1_idle_0
+  - first:
+      213: 6234649255137284878
+    second: monmen1_idle_1
+  - first:
+      213: 8245922923732395492
+    second: monmen1_idle_2
+  - first:
+      213: 7537615145441834944
+    second: monmen1_idle_3
+  - first:
+      213: 6070677513096277393
+    second: monmen1_idle_4
+  - first:
+      213: -5010890811898578793
+    second: monmen1_idle_5
+  - first:
+      213: -4831973353531161859
+    second: monmen1_idle_6
+  - first:
+      213: -5824727788359046342
+    second: monmen1_idle_7
+  - first:
+      213: 943634886173400376
+    second: monmen1_idle_8
+  - first:
+      213: 4912611149142854334
+    second: monmen1_idle_9
+  - first:
+      213: 3356972678300883338
+    second: monmen1_idle_10
+  - first:
+      213: -8395061831369669718
+    second: monmen1_idle_11
+  - first:
+      213: 8474632948917993095
+    second: monmen1_idle_12
+  - first:
+      213: 6621086978562198592
+    second: monmen1_idle_13
+  - first:
+      213: 2025895439219905468
+    second: monmen1_idle_14
+  - first:
+      213: -8974019493115138198
+    second: monmen1_idle_15
+  - first:
+      213: -2351178978389066690
+    second: monmen1_idle_16
+  - first:
+      213: 3397536826423350143
+    second: monmen1_idle_17
+  - first:
+      213: -31722926650389514
+    second: monmen1_idle_18
+  - first:
+      213: 1607233157858336540
+    second: monmen1_idle_19
+  - first:
+      213: 919606566498968295
+    second: monmen1_idle_20
+  - first:
+      213: 3418466593769626682
+    second: monmen1_idle_21
+  - first:
+      213: -1016317326915296945
+    second: monmen1_idle_22
+  - first:
+      213: -9206039379842307703
+    second: monmen1_idle_23
+  - first:
+      213: -7159859548689064668
+    second: monmen1_idle_24
+  - first:
+      213: -7724678815867203617
+    second: monmen1_idle_25
+  - first:
+      213: -7822598748180259815
+    second: monmen1_idle_26
+  - first:
+      213: 8240738165443617643
+    second: monmen1_idle_27
+  - first:
+      213: -4780209192814909577
+    second: monmen1_idle_28
+  - first:
+      213: 6858501545769558241
+    second: monmen1_idle_29
+  - first:
+      213: -3782332341313081720
+    second: monmen1_idle_30
+  - first:
+      213: 4368606214243072491
+    second: monmen1_idle_31
+  - first:
+      213: -1891255951688087675
+    second: monmen1_idle_32
+  - first:
+      213: -2185117128666518221
+    second: monmen1_idle_33
+  - first:
+      213: -1654609364737658357
+    second: monmen1_idle_34
+  - first:
+      213: -4271000932343944691
+    second: monmen1_idle_35
+  - first:
+      213: -7960140536202908580
+    second: monmen1_idle_36
+  - first:
+      213: -4205897384404486314
+    second: monmen1_idle_37
+  - first:
+      213: 720890509824807126
+    second: monmen1_idle_38
+  - first:
+      213: 3333915645811266213
+    second: monmen1_idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monmen1_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b8f3a85ccd3bd0800000000000000
+      internalID: -2648736324743810640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039c97077ce58650800000000000000
+      internalID: 6234649255137284878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e15ad5376f6270800000000000000
+      internalID: 8245922923732395492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73aade90dfa9860800000000000000
+      internalID: 7537615145441834944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2e0ac8016f3450800000000000000
+      internalID: 6070677513096277393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798348cfa5db57ab0800000000000000
+      internalID: -5010890811898578793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df24f9af5d161fcb0800000000000000
+      internalID: -4831973353531161859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 520
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b238defe86a2fa0800000000000000
+      internalID: -5824727788359046342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d180cede6781d00800000000000000
+      internalID: 943634886173400376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8840efc91d2440800000000000000
+      internalID: 4912611149142854334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d0da6ddc569e20800000000000000
+      internalID: 3356972678300883338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa345c94ebfbe7b80800000000000000
+      internalID: -8395061831369669718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef31a34c1fb9570800000000000000
+      internalID: 8474632948917993095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c0a28e683d2eb50800000000000000
+      internalID: 6621086978562198592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb359c61b2d6d1c10800000000000000
+      internalID: 2025895439219905468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 390
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe07141d0e57380800000000000000
+      internalID: -8974019493115138198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf0cd1d2fee5fd0800000000000000
+      internalID: -2351178978389066690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7395422eb9762f20800000000000000
+      internalID: 3397536826423350143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb84c19a2c4f8ff0800000000000000
+      internalID: -31722926650389514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1065aa0a0e4610800000000000000
+      internalID: 1607233157858336540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a949cc4913cc00800000000000000
+      internalID: 919606566498968295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9d265145d07f20800000000000000
+      internalID: 3418466593769626682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a32e96c055e1f0800000000000000
+      internalID: -1016317326915296945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_23
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 260
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ed30b5f39d3080800000000000000
+      internalID: -9206039379842307703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d13becca113ac90800000000000000
+      internalID: -7159859548689064668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf00484b8d6cc490800000000000000
+      internalID: -7724678815867203617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdc4a62eb807390800000000000000
+      internalID: -7822598748180259815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63654e33bbfc5270800000000000000
+      internalID: 8240738165443617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e536d01949adb0800000000000000
+      internalID: -4780209192814909577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ef0761da4e2f50800000000000000
+      internalID: 6858501545769558241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eef8576c4728bc0800000000000000
+      internalID: -3782332341313081720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 130
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b58bb43860ac30800000000000000
+      internalID: 4368606214243072491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c9447bb8e0c5e0800000000000000
+      internalID: -1891255951688087675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de5397c87eca1e0800000000000000
+      internalID: -2185117128666518221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f6cc9c85a909e0800000000000000
+      internalID: -1654609364737658357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae640e74b5ab4c0800000000000000
+      internalID: -4271000932343944691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c20716b56e78190800000000000000
+      internalID: -7960140536202908580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65773d8dc96a1a5c0800000000000000
+      internalID: -4205897384404486314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0de08691e110a00800000000000000
+      internalID: 720890509824807126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monmen1_idle_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a292b3bd92744e20800000000000000
+      internalID: 3333915645811266213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
